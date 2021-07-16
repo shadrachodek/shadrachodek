@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, This is [Shadrach](https://shadrachodek.com) 👋
 
-<!--
-**shadymedy/shadymedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on PHP/Laravel
+- 🌱 I’m currently learning Flutter
+- 🌱 Actively looking for a new opportunity. 
+- 📫 Contact me via:
+  - Stackoverflow: [shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
+  - Mail: `shadrachodekhiran@gmail.com`
+ 
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: Video game addict, techie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+

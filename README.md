@@ -1,14 +1,14 @@
 ### Hey, This is [Shadrach](https://shadrachodek.com) 👋
 
-- 🔭 I’m currently working on PHP/Laravel
-- 🌱 I’m currently exploring game programming with unity
+- 🔭 I’m PHP/Laravel Developer
+- 🌱 I’m currently exploring DevOps
 - 🌱 Actively looking for a new opportunity. 
 - 📫 Contact me via:
   - Stackoverflow: [shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
-  - Mail: `shadrachodekhiran@gmail.com`
+  - Mail: `shadrach.odekhiran@gmail.com`
  
 
-- ⚡ Fun fact: Video game addict, techie
+- ⚡ Fun fact: Video game addict, techie, food taster
 
 
 

@@ -2,7 +2,6 @@
 
 - 🔭 I'm a Software Engineer from Nigeria with a strong passion for PHP/Laravel, Python, JavaScript and the developer community.
 - 🌱 I’m currently exploring DevOps
-- 🌱 Actively looking for a new opportunity. 
 - 📫 Contact me via:
   - Stackoverflow: [shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
   - Mail: `shadrach.odekhiran@gmail.com`

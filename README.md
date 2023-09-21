@@ -1,14 +1,10 @@
-### Hey, This is [Shadrach](https://shadrachodek.com) 👋
+### Hey, I'm Shadrach 👋
 
-- 🔭 I'm a Software Engineer from Nigeria with a strong passion for JavaScript/React/Vue, PHP/Laravel and the developer community.
-- 🌱 I’m currently exploring web3
-- 📫 Contact me via:
-  - Stackoverflow: [shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
-  - Mail: `shadrach.odekhiran@gmail.com`
- 
-
-- ⚡ Fun fact: Video game addict, techie, food taster
-
-
-
-
+- 🚀 Web Engineer | Python, Django, Flask, Frappe | PHP, Laravel, WordPress | Node, React, Vue
+- ☁️ 1x AWS Certified | 1x Azure Certified
+- 🌱 Exploring web3 and blockchain technology.
+- 💬 Connect with me on [Stack Overflow](https://stackoverflow.com/users/4034794/shadrachodek).
+- 📧 Reach out via email: `shadrach.odekhiran@gmail.com`.
+- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/shadrachodek).
+- ⚡ Fun fact: Video game addict, techie, and food taster.
+- 🌍 Check out my [personal website](https://shadrachodek.com) for more about me.

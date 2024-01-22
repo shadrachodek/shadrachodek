@@ -1,6 +1,6 @@
 ### Hey, I'm Shadrach 👋
 
-- 🚀 Web Engineer | Python, Django, Flask, Frappe | PHP, Laravel, WordPress | Node, React, Vue
+- 🚀 Web Engineer | PHP, Laravel, WordPress | Javascript, React, Vue
 - ☁️ 1x AWS Certified | 1x Azure Certified
 - 🌱 Exploring web3 and blockchain technology.
 - 💬 Connect with me on [Stack Overflow](https://stackoverflow.com/users/4034794/shadrachodek).

@@ -44,7 +44,6 @@ LLM APIs • AI Integrations • Business Process Automation
 ## 📚 Currently Exploring
 
 - 🐹 Go (Golang)
-- 🟦 Node.js & TypeScript
 - ☸️ Kubernetes & Cloud-Native Architecture
 - 🤖 AI Engineering & LLM Applications
 - 📡 Observability & Distributed Systems

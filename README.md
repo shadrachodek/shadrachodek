@@ -40,7 +40,6 @@ MySQL • PostgreSQL • Redis
 
 LLM APIs • AI Integrations • Business Process Automation
 
----
 
 ## 📚 Currently Exploring
 
@@ -50,14 +49,12 @@ LLM APIs • AI Integrations • Business Process Automation
 - 🤖 AI Engineering & LLM Applications
 - 📡 Observability & Distributed Systems
 
----
 
 ## 🏆 Certifications
 
 - ☁️ AWS Certified Cloud Practitioner
 - ☁️ Microsoft Azure Fundamentals (AZ-900)
 
----
 
 ## 🌍 Let's Connect
 
@@ -66,6 +63,5 @@ LLM APIs • AI Integrations • Business Process Automation
 - 💬 Stack Overflow: [stackoverflow.com/users/4034794/shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
 - 📧 [shadrach.odekhiran@gmail.com](mailto:shadrach.odekhiran@gmail.com)
 
----
 
 > *"Building software that solves real business problems."* 🚀

@@ -1,43 +1,54 @@
 # Hey, I'm Shadrach 👋
 
-I'm a **Senior Backend Engineer** passionate about building scalable business applications, APIs, AI-powered solutions, and cloud-native systems.
+**Senior Backend Engineer with 10+ years of experience building production software, APIs, business systems, and cloud-native applications.**
+
+I work primarily with PHP/Laravel and have experience across databases, REST APIs, Node.js, Docker, cloud infrastructure, ERPNext/Frappe, automation, and AI-powered applications.
 
 ## 🚀 What I do
 
-- 🏗️ Design and build scalable backend systems
-- ⚡ Develop RESTful APIs and enterprise applications
-- 🤖 Build AI integrations and automation solutions
-- ☁️ Work with Docker, Kubernetes, and cloud technologies
-- 💡 Turn ideas into production-ready software
+- 🏗️ Design and build reliable backend systems and APIs
+- 🔌 Build integrations between business systems and external services
+- ⚙️ Develop enterprise applications and automate business processes
+- 🤖 Integrate AI/LLM capabilities into practical applications
+- ☁️ Build and deploy containerised applications using Docker and cloud technologies
+- 🔍 Improve system reliability, observability, and maintainability
+- 🚀 Take products from idea and architecture through production
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+PHP • Laravel • Python • Node.js • TypeScript
 
-**Frontend**
+### APIs & Integration
 
-JavaScript • React • Vue • WordPress
+REST • GraphQL • API Integration • Webhooks
 
-**Cloud & DevOps**
+### Frontend
 
-Docker • Kubernetes • Git • Linux • CI/CD
+JavaScript • Vue.js • React
 
-**Databases**
+### Cloud & DevOps
+
+Docker • Kubernetes • Linux • Git • CI/CD • Cloud Infrastructure
+
+### Databases
 
 MySQL • PostgreSQL • Redis
 
+### AI & Automation
+
+LLM APIs • AI Integrations • Business Process Automation
+
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 - 🐹 Go (Golang)
-- ☸️ Kubernetes
-- 🤖 AI Engineering & LLMs
-- ☁️ Cloud Native Architecture
+- 🟦 Node.js & TypeScript
+- ☸️ Kubernetes & Cloud-Native Architecture
+- 🤖 AI Engineering & LLM Applications
+- 📡 Observability & Distributed Systems
 
 ---
 
@@ -50,10 +61,10 @@ MySQL • PostgreSQL • Redis
 
 ## 🌍 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/shadrachodek
-- 🌐 Website: https://shadrachodek.com
-- 💬 Stack Overflow: https://stackoverflow.com/users/4034794/shadrachodek
-- 📧 shadrach.odekhiran@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shadrachodek](https://linkedin.com/in/shadrachodek)
+- 🌐 Website: [shadrachodek.com](https://shadrachodek.com)
+- 💬 Stack Overflow: [stackoverflow.com/users/4034794/shadrachodek](https://stackoverflow.com/users/4034794/shadrachodek)
+- 📧 [shadrach.odekhiran@gmail.com](mailto:shadrach.odekhiran@gmail.com)
 
 ---
 
